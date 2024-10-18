@@ -1,6 +1,6 @@
 # FA24-JaneA-WhitternA
 
-***FPS GAME***
+###FPS GAME###
 Made by Ashton Jane and Allison Whittern
 
 Our game is a FPS game where each level you will go around finding targets and shooting them. As you go around you'll have to avoid hazards! But don't worry if you do get hurt you are able to find health packs to heal yourself. Your goal is to hit all the targets and get through all the levels! Have fun!
