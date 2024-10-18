@@ -40,10 +40,10 @@ Set clear communication and working standards with each other.
       - When a player collides with a hazard (i.e. lava pit, spike trap, etc.) they will lose health (the exact amount they lose is up to you). []
       - Once a player’s health reaches 0 or less the level should automatically restart (hint load the level currently being played!). []
 - Ammo
-    - The player should have limited ammo. (10 PTS) []
-      - Whenever the player fires if they have ammo the ammo integer is reduced by 1. []
-      - If the player is currently at 0 or less ammo the gun does not fire. []
-      - The ammo count should be displayed at all times as: “AMMO: ##” []
+    - The player should have limited ammo. (10 PTS) [Ashton J]
+      - Whenever the player fires if they have ammo the ammo integer is reduced by 1. [Ashton J]
+      - If the player is currently at 0 or less ammo the gun does not fire. [Ashton J]
+      - The ammo count should be displayed at all times as: “AMMO: ##” [Ashton J]
 - Pickups
     - Ammo pickups (10 PTS) []
       - If the player runs over an ammo pickup their ammo count increases and the pickup is destroyed. []
