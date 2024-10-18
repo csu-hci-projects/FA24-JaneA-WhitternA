@@ -15,15 +15,15 @@ Space bar allows you to jump.
 
 To run our game you need to...
 
-Meetings:
+**Meetings:**
 Friday Oct 11th in person meeting for approx 1.5 hours.
 Monday Oct 21st in person during class.
 
-Communication Methods:
+**Communication Methods:**
 Constantly communicating with each other over teams as early as Sept 25th.
 Set clear communication and working standards with each other.
 
-Tasks and who completed them:
+**Tasks and who completed them:**
 - Create a new project (10 PTS) [Ashton]
     - Use the FPS template and load the starter assets. [Ashton]
 - Create 3 unique levels 
