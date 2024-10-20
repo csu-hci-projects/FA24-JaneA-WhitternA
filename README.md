@@ -27,9 +27,9 @@ Set clear communication and working standards with each other.
 - Create a new project (10 PTS) [Ashton]
     - Use the FPS template and load the starter assets. [Ashton]
 - Create 3 unique levels 
-    - One level must be a “menu” scene with a start button that loads the first level and a quit button that exits the game. (10 PTS) []
+    - One level must be a “menu” scene with a start button that loads the first level and a quit button that exits the game. (10 PTS) [Ashton J]
     - The level that is loaded from the menu must have hazards and targets (required functionality for these described below). Once all targets have been destroyed the third level must automatically load. (10 PTS) []
-    - The third (last) level must also have hazards and targets, but a different layout. Once all targets have been destroyed the menu scene must automatically load. (10 PTS) []
+    - The third (last) level must also have hazards and targets, but a different layout. Once all targets have been destroyed the menu scene must automatically load. (10 PTS) [Ashton J]
     - Both of the non-menu levels must have static meshes with materials applied for the user to navigate. (10 PTS) []
 - Each non-menu level must have at least 3 targets and at least 3 hazards 
     - Targets can be any mesh, but must have a “health” variable. Their starting health should be 100. (20 PTS) []
