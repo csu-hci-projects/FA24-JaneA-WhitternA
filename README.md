@@ -6,18 +6,18 @@ Made by Ashton Jane and Allison Whittern
 Our game is a FPS game where each level you will go around finding targets and shooting them. As you go around you'll have to avoid hazards! But don't worry if you do get hurt you are able to find health packs to heal yourself. Your goal is to hit all the targets and get through all the levels! Have fun!
 
 Controls (Computer):
-WASD are for movement.
-Moving your mouse allows you to look around.
-Right click on the mouse allows you to zoom in for better aim.
-Left click on the mouse allows you to shoot. 
-Shift allows you to sprint.
-Space bar allows you to jump.
+- WASD are for movement.
+- Moving your mouse allows you to look around.
+ -Right click on the mouse allows you to zoom in for better aim.
+- Left click on the mouse allows you to shoot. 
+- Shift allows you to sprint.
+- Space bar allows you to jump.
 
 To run our game you need to open the main branch with github desktop and then find where you have the files saved. Once you do open up the CS310H_HW1 then either double click the .uproject file or right click the file and open with Unreal. Once its open make sure to start by opening the start level and pressing play.
 
 **Meetings:**
-Friday Oct 11th in person meeting for approx 1.5 hours. Went over working expectationis, how we were splitting up the workload equally, and what we wanted the game to look like.
-Monday Oct 21st in person during class. Went over splitting up the videos and final steps.
+- Friday Oct 11th in person meeting for approx 1.5 hours. Went over working expectationis, how we were splitting up the workload equally, and what we wanted the game to look like.
+- Monday Oct 21st in person during class. Went over splitting up the videos and final steps.
 
 **Communication Methods:**
 Constantly communicating with each other over teams as early as Sept 25th.
