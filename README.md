@@ -15,10 +15,6 @@ Controls (Computer):
 
 To run our game you need to open the main branch with github desktop and then find where you have the files saved. Once you do open up the CS310H_HW1 then either double click the .uproject file or right click the file and open with Unreal. Once its open make sure to start by opening the start level and pressing play.
 
-**Meetings:**
-- Friday Oct 11th in person meeting for approx 1.5 hours. Went over working expectationis, how we were splitting up the workload equally, and what we wanted the game to look like.
-- Monday Oct 21st in person during class. Went over splitting up the videos and final steps.
-
 **Communication Methods:**
 Constantly communicating with each other over teams as early as Sept 25th.
 Set clear communication and working standards with each other.
@@ -52,3 +48,6 @@ Set clear communication and working standards with each other.
       - If the player runs over a health pickup their health increases. However, the player’s health cannot exceed 100. The pick up should then be destroyed. [Allison W]
       - This pickup should have a unique mesh visual to identify the pickup. [Allison W]
 
+**Meetings:**
+- Friday Oct 11th in person meeting for approx 1.5 hours. Went over working expectationis, how we were splitting up the workload equally, and what we wanted the game to look like.
+- Monday Oct 21st in person during class. Went over splitting up the videos and final steps.
