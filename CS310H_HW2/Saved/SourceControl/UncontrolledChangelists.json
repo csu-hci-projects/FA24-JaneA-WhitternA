@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/Level/FirstLevel.umap",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/Column.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/TempWall.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/Level/WinLevel.umap",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/TargetTracker.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/Target.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/Win.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/Text.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/Text2.uasset",
+				"D:/310H Assignments/Github/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/MyGrabable1.uasset",
+				"D:/310H Assignments/Github/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/MyGrabable2.uasset",
+				"D:/310H Assignments/Github/CS310H--HW1/CS310H_HW2/Content/Level/FirstLevel.umap",
+				"D:/310H Assignments/Github/CS310H--HW1/CS310H_HW2/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/Lab3/CS310H_HW2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
