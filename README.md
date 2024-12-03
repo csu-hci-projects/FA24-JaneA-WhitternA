@@ -6,7 +6,7 @@ Made by Ashton Jane and Allison Whittern
 **HW2 requirnments**
 ***Who did what is labeled by the names in [brackets] by the major categories***
 - Create a new VR project. (20 PTS) [Allison W]
- - Use the VR Template and starter assets.
+  - Use the VR Template and starter assets.
  - Configure and connect your assigned VR HMD.
 - Create a new level with static mesh objects to decorate your world. (10 PTS) [Allison W and Ashton J]
  - Configure this level to use the VR gamemode and use the VR player pawn.
