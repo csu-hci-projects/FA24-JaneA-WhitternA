@@ -1,8 +1,51 @@
 # FA24-JaneA-WhitternA
 
-# FPS GAME
+# VR FPS GAME
 Made by Ashton Jane and Allison Whittern
 
+**HW2 requirnments**
+***Who did what is labeled by the names in [brackets] by the major categories***
+- Create a new VR project. (20 PTS) [Allison W]
+ - Use the VR Template and starter assets.
+ - Configure and connect your assigned VR HMD.
+- Create a new level with static mesh objects to decorate your world. (10 PTS) [Allison W and Ashton J]
+ - Configure this level to use the VR gamemode and use the VR player pawn.
+- Create a teleportation area (10 PTS) [Allison W]
+ - Use a navigation volume and static mesh to enable teleportation in your VR level.
+- Add at least 3 unique VR grab interactables (you are welcome to add more and add multiple instances on a unique interactable). (10 PTS)
+ - These should be static meshes with the grab component.
+ - Ensure that “simulate physics” and “use gravity” are enabled.
+- Modify the Pistol Blueprint to keep track of ammo (10 PTS) [Ashton J]
+ - Add spatial UI to the pistol blueprint
+ - Whenever the user shoots the ammo count should decrease
+ - After shooting the UI should update to show the current ammo count
+ - If the ammo count is 0 prevent the player from shooting
+- Add a delayed reload function (15 PTS) [Ashton J]
+ - Set up a button input as the reload button.
+ - If the pistol is currently in the user’s hand and the button is pressed begin resetting the reload.
+ - There must be a time delay before the ammo count is updated.
+ - After the delay, update the spatial UI to display the new ammo count.
+ - When reloaded play a notification sound to indicate that reloading has been completed.
+- Add at least 5 targets to the level (10 PTS) [Ashton J]
+ - These should keep track of how many times they’ve been hit by a projectile.
+ - This should be an int variable that starts at 0.
+ - After the first hit, change the color of the target material.
+ - After the second hit, use an event to indicate that the target is being destroyed and then destroy it.
+- Modify the level blueprint to keep track of the number of targets destroyed. (10 PTS)
+ - Add an event listener to the level blueprint that is connected to the target destroyed event delegate (see 5d).
+ - Whenever a target is destroyed, increase an int variable that keeps track of the number of destroyed targets and print the number of destroyed targets to the screen.
+- Create an unlockable “no-teleport” area. (10 PTS) [Allison W]
+ - Due to a technical issue this section has been updated 11/21/24. Once a single target has been destroyed unlock the "no-teleport" area.
+ - After increasing the level blueprint variable to keep track of destroyed targets check to see if at least 3 have been destroyed.
+ - If at least 3 have been destroyed, unlock the “no-teleport” area.
+- Add a “win” level (15 PTS) [Allison W]
+ - Create a second level
+ - Decorate this level with any static meshes, particle effects, etc. that you want.
+ - Add in spatial text that reads “You Win!”
+ - In your first level automatically load this second “win” level once all targets in the first level have been destroyed.
+
+
+# HW1
 Our game is a FPS game where each level you will go around finding targets and shooting them. As you go around you'll have to avoid hazards! But don't worry if you do get hurt you are able to find health packs to heal yourself. Your goal is to hit all the targets and get through all the levels! Have fun!
 
 Controls (Computer):
