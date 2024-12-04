@@ -7,8 +7,8 @@ Made by Ashton Jane and Allison Whittern ***who did what is below***
 - Open our Github.
 - Download it with the GitHub Desktop.
 - Find where you saved it.
-- Open the folder labled "".
-- Open the uproject labled "".
+- Open the folder labled "CS310H_HW2".
+- Open the uproject labled "CS310H_HW2.uproject".
 - Once the game is running open the First Level.
 - Then connect your VR headset and press play.
   
@@ -16,7 +16,7 @@ Made by Ashton Jane and Allison Whittern ***who did what is below***
 - Our youtube Videos
   - Functionality Video:
   - Blueprints Video: 
-- Our LLMs are in a folder in the GitHub.
+- Our LLMs are a pdf in the GitHub.
   
 **References**
 - We used the lab videos provided.
