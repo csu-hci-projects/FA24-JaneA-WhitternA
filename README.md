@@ -21,7 +21,10 @@ Made by Ashton Jane and Allison Whittern ***who did what is below***
 **References**
 - We used the lab videos provided.
 - I referenced our HW1 for some of the logic.
-  
+**Meeting Times**
+  - During allocated in class meetings
+  - Discussion throughout the project through messages on teams to coordinate workload
+
 **HW2 requirnments**
 ***Who did what is labeled by the names in [brackets] by the major categories***
 - Create a new VR project. (20 PTS) **[Allison W]**
