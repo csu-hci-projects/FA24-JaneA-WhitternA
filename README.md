@@ -14,18 +14,22 @@ Made by Ashton Jane and Allison Whittern ***who did what is below***
   
 **Links**
 - Our youtube Videos
-  - Functionality Video:
-  - Blueprints Video: 
-- Our LLMs are a pdf in the GitHub.
-  
+  - Functionality Video: https://youtu.be/9cdt4yWZViE
+  - Blueprints Video: https://youtu.be/9cdt4yWZViE
+- Our LLMs are a pdf in the GitHub and submitted to CANVAS
+
+**Meetings and Communication**
+We met Dec 3rd in class and consistantly communicated with each other over teams.
+
 **References**
 - We used the lab videos provided.
 - I referenced our HW1 for some of the logic.
+- 
 **Meeting Times**
   - During allocated in class meetings
   - Discussion throughout the project through messages on teams to coordinate workload
 
-**HW2 requirnments**
+**HW2 requirenments**
 ***Who did what is labeled by the names in [brackets] by the major categories***
 - Create a new VR project. (20 PTS) **[Allison W]**
   - Use the VR Template and starter assets.
